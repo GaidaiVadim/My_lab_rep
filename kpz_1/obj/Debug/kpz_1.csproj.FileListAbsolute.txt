@@ -1,0 +1,39 @@
+c:\users\sasha_pc\documents\visual studio 2015\Projects\KPZ\kpz_1\kpz_1\bin\Debug\kpz_1.exe.config
+C:\Users\Sasha_PC\documents\visual studio 2015\Projects\KPZ\kpz_1\kpz_1\bin\Debug\kpz_1.exe
+C:\Users\Sasha_PC\documents\visual studio 2015\Projects\KPZ\kpz_1\kpz_1\bin\Debug\kpz_1.pdb
+C:\Users\Sasha_PC\documents\visual studio 2015\Projects\KPZ\kpz_1\kpz_1\obj\Debug\kpz_1.csprojResolveAssemblyReference.cache
+C:\Users\Sasha_PC\documents\visual studio 2015\Projects\KPZ\kpz_1\kpz_1\obj\Debug\kpz_1.Form1.resources
+C:\Users\Sasha_PC\documents\visual studio 2015\Projects\KPZ\kpz_1\kpz_1\obj\Debug\kpz_1.Properties.Resources.resources
+C:\Users\Sasha_PC\documents\visual studio 2015\Projects\KPZ\kpz_1\kpz_1\obj\Debug\kpz_1.csproj.GenerateResource.Cache
+C:\Users\Sasha_PC\documents\visual studio 2015\Projects\KPZ\kpz_1\kpz_1\obj\Debug\kpz_1.exe
+C:\Users\Sasha_PC\documents\visual studio 2015\Projects\KPZ\kpz_1\kpz_1\obj\Debug\kpz_1.pdb
+E:\Projects\KPZ\kpz_1\kpz_1\bin\Debug\kpz_1.exe.config
+E:\Projects\KPZ\kpz_1\kpz_1\obj\Debug\kpz_1.exe
+E:\Projects\KPZ\kpz_1\kpz_1\obj\Debug\kpz_1.pdb
+E:\Projects\KPZ\kpz_1\kpz_1\bin\Debug\kpz_1.exe
+E:\Projects\KPZ\kpz_1\kpz_1\bin\Debug\kpz_1.pdb
+E:\Projects\KPZ\kpz_1\kpz_1\obj\Debug\kpz_1.csprojResolveAssemblyReference.cache
+E:\Projects\KPZ\kpz_1\kpz_1\obj\Debug\kpz_1.Form1.resources
+E:\Projects\KPZ\kpz_1\kpz_1\obj\Debug\kpz_1.Form2.resources
+E:\Projects\KPZ\kpz_1\kpz_1\obj\Debug\kpz_1.Properties.Resources.resources
+E:\Projects\KPZ\kpz_1\kpz_1\obj\Debug\kpz_1.csproj.GenerateResource.Cache
+D:\Projects\KPZ\kpz_1\kpz_1\bin\Debug\kpz_1.exe.config
+D:\Projects\KPZ\kpz_1\kpz_1\obj\Debug\kpz_1.exe
+D:\Projects\KPZ\kpz_1\kpz_1\obj\Debug\kpz_1.pdb
+D:\Projects\KPZ\kpz_1\kpz_1\bin\Debug\kpz_1.exe
+D:\Projects\KPZ\kpz_1\kpz_1\bin\Debug\kpz_1.pdb
+D:\Projects\KPZ\kpz_1\kpz_1\obj\Debug\kpz_1.Form1.resources
+D:\Projects\KPZ\kpz_1\kpz_1\obj\Debug\kpz_1.Form2.resources
+D:\Projects\KPZ\kpz_1\kpz_1\obj\Debug\kpz_1.Properties.Resources.resources
+D:\Projects\KPZ\kpz_1\kpz_1\obj\Debug\kpz_1.csproj.GenerateResource.Cache
+D:\Projects\KPZ\kpz_1\kpz_1\obj\Debug\kpz_1.csprojResolveAssemblyReference.cache
+C:\Users\NOYT\Documents\Visual Studio 2013\Projects\kpz_1\kpz_1\bin\Debug\kpz_1.exe.config
+C:\Users\NOYT\Documents\Visual Studio 2013\Projects\kpz_1\kpz_1\obj\Debug\kpz_1.exe
+C:\Users\NOYT\Documents\Visual Studio 2013\Projects\kpz_1\kpz_1\obj\Debug\kpz_1.pdb
+C:\Users\NOYT\Documents\Visual Studio 2013\Projects\kpz_1\kpz_1\bin\Debug\kpz_1.exe
+C:\Users\NOYT\Documents\Visual Studio 2013\Projects\kpz_1\kpz_1\bin\Debug\kpz_1.pdb
+C:\Users\NOYT\Documents\Visual Studio 2013\Projects\kpz_1\kpz_1\obj\Debug\kpz_1.csprojResolveAssemblyReference.cache
+C:\Users\NOYT\Documents\Visual Studio 2013\Projects\kpz_1\kpz_1\obj\Debug\kpz_1.Form1.resources
+C:\Users\NOYT\Documents\Visual Studio 2013\Projects\kpz_1\kpz_1\obj\Debug\kpz_1.Form2.resources
+C:\Users\NOYT\Documents\Visual Studio 2013\Projects\kpz_1\kpz_1\obj\Debug\kpz_1.Properties.Resources.resources
+C:\Users\NOYT\Documents\Visual Studio 2013\Projects\kpz_1\kpz_1\obj\Debug\kpz_1.csproj.GenerateResource.Cache
