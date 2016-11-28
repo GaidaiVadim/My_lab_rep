@@ -37,3 +37,6 @@ C:\Users\NOYT\Documents\Visual Studio 2013\Projects\kpz_1\kpz_1\obj\Debug\kpz_1.
 C:\Users\NOYT\Documents\Visual Studio 2013\Projects\kpz_1\kpz_1\obj\Debug\kpz_1.Form2.resources
 C:\Users\NOYT\Documents\Visual Studio 2013\Projects\kpz_1\kpz_1\obj\Debug\kpz_1.Properties.Resources.resources
 C:\Users\NOYT\Documents\Visual Studio 2013\Projects\kpz_1\kpz_1\obj\Debug\kpz_1.csproj.GenerateResource.Cache
+D:\kpz_1\kpz_1\bin\Debug\kpz_1.exe.config
+D:\kpz_1\kpz_1\obj\Debug\kpz_1.exe
+D:\kpz_1\kpz_1\obj\Debug\kpz_1.pdb

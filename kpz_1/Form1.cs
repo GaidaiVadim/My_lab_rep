@@ -99,6 +99,11 @@ namespace kpz_1
             };
             student obj = new student();
         }
+
+        private void toolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            // нова кнопка для створення нового commite
+        }
         
     }
 }
