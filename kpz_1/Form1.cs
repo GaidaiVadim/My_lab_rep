@@ -17,7 +17,7 @@ namespace kpz_1
         int countt = 0;
         Form2 vydal;
         string path;
-        public Form1()
+        public Form1()//ініціалізування компонентів з ліста 
         {
             InitializeComponent();
             list = new List<student>();
@@ -29,7 +29,7 @@ namespace kpz_1
         {
             if ((textBox1.Text != "") && (textBox2.Text != "") && (textBox3.Text != "") && (textBox4.Text != "") && (textBox5.Text != "") && (textBox6.Text != ""))
             {
-                student obj = new student();
+                student obj = new student();//створення нового обєкту + запис в нього нових даних + ощищення полів 
                 obj.set_nomer(countt);
                 obj.set_surname(textBox1.Text);
                 obj.set_name(textBox2.Text);
